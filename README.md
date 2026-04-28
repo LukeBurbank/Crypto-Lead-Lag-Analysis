@@ -36,4 +36,21 @@ Understanding these relationships can help traders and analysts better evaluate 
 - **Tableau** — Built an interactive dashboard to visualize ETH influence on altcoin behavior
 - **GitHub** — Documented and presented the full project workflow and findings
 
+## Dataset & Methodology
+
+The dataset consisted of daily return data for Ethereum (ETH) and multiple altcoins from 2025 onward, totaling over 5,000 rows of market data. Assets analyzed included cryptocurrencies such as Chainlink, AAVE, Render, ONDO, Injective, and several others.
+
+The project originally began in Excel using AAVE as a single test case before expanding into a larger SQL-based dataset that allowed analysis across multiple cryptocurrencies simultaneously.
+
+Key calculations and transformations included:
+
+- Daily return calculations for ETH and altcoins
+- Classification of ETH green vs red trading days
+- Identification of large ETH move periods (greater than ±2%)
+- Next-day spillover analysis using lagged return comparisons
+- Correlation analysis between ETH and altcoin returns
+- Average daily volatility calculations using absolute returns
+
+SQL queries were used to aggregate and analyze the data before exporting the results into Tableau for visualization and dashboard development.
+
 
