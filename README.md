@@ -28,3 +28,12 @@ The goal of this project was to determine:
 - How consistently altcoins respond during ETH green and red days
 
 Understanding these relationships can help traders and analysts better evaluate market behavior, correlation risk, and short-term momentum across crypto assets.
+
+## Tools Used
+
+- **Excel** — Initial exploratory analysis using AAVE as a single test asset
+- **SQL** — Scaled the analysis across multiple altcoins and calculated correlations, volatility metrics, and spillover effects
+- **Tableau** — Built an interactive dashboard to visualize ETH influence on altcoin behavior
+- **GitHub** — Documented and presented the full project workflow and findings
+
+
