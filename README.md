@@ -82,3 +82,9 @@ This project evolved from a small Excel-based experiment using AAVE into a large
 The analysis revealed strong same-day relationships between ETH and many altcoins, particularly during periods of high volatility. However, next-day spillover effects appeared limited, suggesting that ETH direction alone may not provide strong predictive power for future altcoin returns.
 
 By combining Excel, SQL, and Tableau, this project demonstrates an end-to-end analytical workflow involving data transformation, statistical analysis, and dashboard visualization within a cryptocurrency market context.
+
+## Interactive Dashboard
+
+View the full interactive Tableau dashboard here:
+
+[View Tableau Dashboard](https://public.tableau.com/app/profile/luke.burbank1441/viz/CryptoLead-LagAnalysisETHInfluenceonAltcoinBehavior/Dashboard1)
