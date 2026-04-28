@@ -53,4 +53,24 @@ Key calculations and transformations included:
 
 SQL queries were used to aggregate and analyze the data before exporting the results into Tableau for visualization and dashboard development.
 
+## Analysis & Findings
 
+### 1. Same-Day ETH Influence on Altcoins
+
+The analysis showed that most altcoins moved in the same direction as ETH during the same trading day. Positive ETH days were generally associated with positive average altcoin returns, while negative ETH days often produced broad declines across the altcoin market.
+
+### 2. Impact of Large ETH Price Movements
+
+When ETH experienced large price swings greater than ±2%, many altcoins showed amplified reactions. Several assets demonstrated significantly stronger volatility during these periods, suggesting that major ETH movements can strongly influence short-term altcoin behavior.
+
+### 3. Next-Day Spillover Effects
+
+Next-day spillover effects after ETH green and red days appeared weak and inconsistent across most assets. While a few coins showed small positive continuation effects, the majority of next-day reactions clustered near zero, suggesting limited predictive power from ETH’s prior-day direction alone.
+
+### 4. Correlation Analysis
+
+Correlation analysis revealed that some altcoins tracked ETH much more closely than others. Chainlink demonstrated the strongest relationship with ETH price movements, while other assets displayed weaker correlations and more independent behavior.
+
+### 5. Volatility Analysis
+
+Volatility analysis showed major differences in average daily movement size across altcoins. Render exhibited the highest average daily volatility in the dataset, indicating larger average price swings compared to other analyzed assets.
