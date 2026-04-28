@@ -14,3 +14,17 @@ The analysis focused on:
 - Next-day spillover effects after ETH moves
 - Correlation strength between ETH and altcoins
 - Relative volatility across major altcoins
+
+## Business Problem
+
+Crypto markets are highly interconnected, but not all altcoins react to Ethereum movements in the same way.
+
+The goal of this project was to determine:
+
+- Which altcoins move most closely with ETH
+- How altcoins react during strong ETH price movements
+- Whether ETH movements create measurable next-day spillover effects
+- Which altcoins exhibit the highest volatility
+- How consistently altcoins respond during ETH green and red days
+
+Understanding these relationships can help traders and analysts better evaluate market behavior, correlation risk, and short-term momentum across crypto assets.
