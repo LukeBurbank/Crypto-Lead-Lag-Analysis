@@ -74,3 +74,11 @@ Correlation analysis revealed that some altcoins tracked ETH much more closely t
 ### 5. Volatility Analysis
 
 Volatility analysis showed major differences in average daily movement size across altcoins. Render exhibited the highest average daily volatility in the dataset, indicating larger average price swings compared to other analyzed assets.
+
+## Conclusion
+
+This project evolved from a small Excel-based experiment using AAVE into a larger SQL and Tableau analysis of how Ethereum influences altcoin behavior across multiple market conditions.
+
+The analysis revealed strong same-day relationships between ETH and many altcoins, particularly during periods of high volatility. However, next-day spillover effects appeared limited, suggesting that ETH direction alone may not provide strong predictive power for future altcoin returns.
+
+By combining Excel, SQL, and Tableau, this project demonstrates an end-to-end analytical workflow involving data transformation, statistical analysis, and dashboard visualization within a cryptocurrency market context.
